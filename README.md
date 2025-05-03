@@ -4,7 +4,7 @@
 A stylized 20-second cartoon animation demonstrating core Blender skills, including modeling, rigging, particle systems, and scene animation. Designed to mimic 2D aesthetics while leveraging 3D tools.  
 
 <img src="output/0001.png" width="" alt="Output"> 
-<img src="output/0022.png" width="" alt="Output"> 
+<img src="output/0033.png" width="" alt="Output"> 
 <img src="output/0062.png" width="" alt="Output"> 
 <img src="output/0245.png" width="" alt="Output"> 
 
