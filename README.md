@@ -15,4 +15,4 @@ A stylized 20-second cartoon animation demonstrating core Blender skills, includ
 
 ## 📚 Learning Resources & Credits  
 This project was developed with guidance from:  
- **[Blender Tutorial For Beginners]** by Kurtips (https://www.youtube.com/watch?v=HM7TbsnZviM&list=PLWnbm0Hd_z4TNF18poVGNUVszKP74sdcJ) 
+ [Blender Tutorial For Beginners] by [Kurtips](https://www.youtube.com/watch?v=HM7TbsnZviM&list=PLWnbm0Hd_z4TNF18poVGNUVszKP74sdcJ)
